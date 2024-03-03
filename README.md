@@ -8,13 +8,13 @@ The dataset contains observations of sleeping variables in mammals, along with f
 
 ### Folder Structure:
 
-0_Dataset.csv/: Contains the original dataset.
-1_Density per Spices.csv/: Contains the density per spices dataset.
-2_Mammal_Functional Data.csv/: Contains the additional mammal functional dataset.
-3_Amniote_Database.csv/: Contains the amniote dataset.
-Predicting_Sleep_Variables_in_Mammals.ipynb/: Includes Python scripts for data preprocessing, model training, and evaluation.
-requirements.txt/ Contains the packages needs to run the project
-README.md: Provides project overview, setup instructions, and usage guidelines.
+* 0_Dataset.csv/: Contains the original dataset.
+* 1_Density per Spices.csv/: Contains the density per spices dataset.
+* 2_Mammal_Functional Data.csv/: Contains the additional mammal functional dataset.
+* 3_Amniote_Database.csv/: Contains the amniote dataset.
+* Predicting_Sleep_Variables_in_Mammals.ipynb/: Includes Python scripts for data preprocessing, model training, and evaluation.
+* requirements.txt/ Contains the packages needs to run the project
+* README.md: Provides project overview, setup instructions, and usage guidelines.
 
 ### Dependencies
 
