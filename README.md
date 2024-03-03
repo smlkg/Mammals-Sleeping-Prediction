@@ -43,6 +43,8 @@ $ pip install -r requirements.txt
 Contributors names and contact info
 
 Samuel Kong (https://github.com/smlkg)
+Garam Baek (https://github.com/garambaek/garambaek)
+Théo Ourvoie (https://github.com/Theo-Ou)
 
 
 ## License
