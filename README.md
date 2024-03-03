@@ -44,7 +44,8 @@ Contributors names and contact info
 
 * Samuel Kong (https://github.com/smlkg)
 * Théo Ourvoie (https://github.com/Theo-Ou)
-* Garam Baek (https://github.com/garambaek/garambaek)
+* Garam Baek (https://github.com/garambaek)
+* Lucas Favero (https://github.com/Lucas-Favero)
 
 ## License
 
