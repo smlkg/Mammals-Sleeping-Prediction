@@ -30,10 +30,10 @@ README.md: Provides project overview, setup instructions, and usage guidelines.
 
 ### Executing program
 
-* 1. Open the files in Google Colab or Anaconda Jupyter Notebook 
-* 2. Install the requirements.txt
-* 3. Import the dataset to the notebook 
-* 4. You're good to go! 
+1. Open the files in Google Colab or Anaconda Jupyter Notebook 
+2. Install the requirements.txt
+3. Import the dataset to the notebook 
+4. You're good to go! 
 ```
 $ pip install -r requirements.txt
 ```
