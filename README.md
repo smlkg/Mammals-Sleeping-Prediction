@@ -42,8 +42,7 @@ $ pip install -r requirements.txt
 
 Contributors names and contact info
 
-ex. Samuel Kong
-ex. [@smlkg](https://github.com/smlkg)
+Samuel Kong (https://github.com/smlkg)
 
 
 ## License
